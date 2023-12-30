@@ -1,5 +1,5 @@
 import React from 'react';
-import jsonData from './../nflESPN.json';  //Directly import the local JSON data file
+import jsonData from '../data/nflESPN.json';  //Directly import the local JSON data file
 
 class HomePage extends React.Component {
     constructor(props) {

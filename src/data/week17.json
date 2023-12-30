@@ -1,0 +1,107 @@
+{
+  "week": [
+    {
+      "id": "2023 NFL Schedule - Week 17 | FantasyPros",
+      "match": {
+        "Game": [
+          {
+            "id": 1,
+            "time": "Thursday, December 28th, 2023 at 8:15pm ET",
+            "away": "New York Jets",
+            "home": "Cleveland Browns"
+          },
+          {
+            "id": 2,
+            "time": "Saturday, December 30th, 2023 at 8:15pm ET",
+            "away": "Detroit Lions",
+            "home": "Dallas Cowboys"
+          },
+          {
+            "id": 3,
+            "time": "Sunday, December 31st, 2023 at 1:00pm ET",
+            "away": "Miami Dolphins ",
+            "home": "Baltimore Ravens"
+          },
+          {
+            "id": 4,
+            "time": "Sunday, December 31st, 2023 at 1:00pm ET",
+            "away": "Tennessee Titans ",
+            "home": "Houston Texans"
+          },
+          {
+            "id": 5,
+            "time": "Sunday, December 31st, 2023 at 1:00pm ET",
+            "away": "Atlanta Falcons",
+            "home": "Chicago Bears"
+          },
+          {
+            "id": 6,
+            "time": "Sunday, December 31st, 2023 at 1:00pm ET",
+            "away": "Carolina Panthers",
+            "home": "Jacksonville Jaguars"
+          },
+          {
+            "id": 7,
+            "time": "Sunday, December 31st, 2023 at 1:00pm ET",
+            "away": "San Francisco 49ers",
+            "home": "Washington Commanders"
+          },
+          {
+            "id": 8,
+            "time": "Sunday, December 31st, 2023 at 1:00pm ET",
+            "away": "Arizona Cardinals at",
+            "home": "Philadelphia Eagles"
+          },
+          {
+            "id": 9,
+            "time": "Sunday, December 31st, 2023 at 1:00pm ET",
+            "away": "New Orleans Saints",
+            "home": "Tampa Bay Buccaneers"
+          },
+          {
+            "id": 10,
+            "time": "Sunday, December 31st, 2023 at 1:00pm ET",
+            "away": "Las Vegas Raiders",
+            "home": "Indianapolis Colts"
+          },
+          {
+            "id": 11,
+            "time": "Sunday, December 31st, 2023 at 1:00pm ET",
+            "away": "Los Angeles Rams",
+            "home": "New York Giants"
+          },
+          {
+            "id": 12,
+            "time": "Sunday, December 31st, 2023 at 1:00pm ET",
+            "away": "New England Patriots",
+            "home": "Buffalo Bills"
+          },
+          {
+            "id": 13,
+            "time": "Sunday, December 31st, 2023 at 4:05pm ET",
+            "away": "Pittsburgh Steelers",
+            "home": "Seattle Seahawks"
+          },
+          {
+            "id": 14,
+            "time": "Sunday, December 31st, 2023 at 4:25pm ET",
+            "away": "Cincinnati Bengals",
+            "home": "Kansas City Chiefs"
+          },
+          {
+            "id": 15,
+            "time": "Sunday, December 31st, 2023 at 4:25pm ET",
+            "away": "Los Angeles Chargers",
+            "home": "Denver Broncos"
+          },
+          {
+            "id": 16,
+            "time": "Sunday, December 31st, 2023 at 8:20pm ET",
+            "away": "Green Bay Packers",
+            "home": "Minnesota Vikings"
+          }          
+        ]
+      }
+    }
+  ]
+}
