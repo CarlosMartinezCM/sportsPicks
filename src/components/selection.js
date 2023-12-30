@@ -36,7 +36,8 @@ class Selection extends React.Component {
 
   handleTeamSelect = (team) => {
     //add logic to handle the selection to only be the first time 
-    //maybe try using the ID to make sure that the matchup has not been selected yet. 
+    //maybe try using the ID to make sure that the matchup has not been selected yet.
+    //Check out the other checkbox methods, ifchecked/seleceted 
     this.setState((prevState) => ({
       selectedGames: [...prevState.selectedGames, team],
     }));
